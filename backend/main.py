@@ -1,10 +1,11 @@
-from fastapi import FastAPI, HTTPException, Query
-from fastapi.middleware.cors import CORSMiddleware
-import json
 import os
+import json
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="Sports Arena API")
 
+# Enable CORS for frontend integration
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -13,28 +14,30 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-def load_sport_data(sport: str, role: str):
-    file_name = f"{sport.lower()}_{role.lower()}.json"
-    file_path = os.path.join("backend", "data", file_name)
-    
+# Get absolute directory path of this file to securely locate the data folder
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+def load_json_data(sport: str, role: str):
+    file_path = os.path.join(BASE_DIR, "data", f"{sport}_{role}.json")
     if not os.path.exists(file_path):
-        return None
-    with open(file_path, "r", encoding="utf-8") as file:
-        return json.load(file)
+        raise HTTPException(status_code=404, detail=f"Data file not found: {sport}_{role}.json")
+    
+    with open(file_path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 @app.get("/api/compare/{sport}/{role}")
-async def get_comparison(sport: str, role: str, players: str = Query(None, description="Comma-separated player IDs")):
-    data = load_sport_data(sport, role)
-    if not data:
-        raise HTTPException(status_code=404, detail=f"Data for '{sport} - {role}' not found.")
+def get_comparison_data(sport: str, role: str, players: str = None):
+    data = load_json_data(sport, role)
     
-    if players:
-        player_ids = [p.strip().lower() for p in players.split(",")]
-        filtered_players = [p for p in data["players"] if p["id"] in player_ids]
-        
-        if len(filtered_players) < 2 or len(filtered_players) > 4:
-            raise HTTPException(status_code=400, detail="Must select between 2 and 4 valid players.")
-            
-        data["players"] = filtered_players
-        
-    return data
+    if not players:
+        return data
+    
+    player_ids = players.split(",")
+    filtered_players = [p for p in data["players"] if p["id"] in player_ids]
+    
+    return {
+        "sport": data["sport"],
+        "role": data["role"],
+        "metrics": data["metrics"],
+        "players": filtered_players
+    }
