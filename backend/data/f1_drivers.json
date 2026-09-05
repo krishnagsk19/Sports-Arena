@@ -1,0 +1,22 @@
+{
+  "sport": "F1",
+  "role": "Drivers",
+  "metrics": ["Championships", "Race Wins", "Podiums", "Pole Positions", "Win Percentage"],
+  "players": [
+    { "id": "hamilton", "name": "Lewis Hamilton", "color": "#00D2BE", "stats": { "Championships": 7, "Race Wins": 106, "Podiums": 207, "Pole Positions": 104, "Win Percentage": 27.1 } },
+    { "id": "verstappen", "name": "Max Verstappen", "color": "#0600EF", "stats": { "Championships": 3, "Race Wins": 71, "Podiums": 131, "Pole Positions": 36, "Win Percentage": 29.1 } },
+    { "id": "alonso", "name": "Fernando Alonso", "color": "#0055A5", "stats": { "Championships": 2, "Race Wins": 32, "Podiums": 106, "Pole Positions": 22, "Win Percentage": 7.3 } },
+    { "id": "norris", "name": "Lando Norris", "color": "#FF8700", "stats": { "Championships": 0, "Race Wins": 12, "Podiums": 35, "Pole Positions": 8, "Win Percentage": 7.4 } },
+    { "id": "leclerc", "name": "Charles Leclerc", "color": "#E32221", "stats": { "Championships": 0, "Race Wins": 9, "Podiums": 42, "Pole Positions": 26, "Win Percentage": 4.9 } },
+    { "id": "russell", "name": "George Russell", "color": "#27F4D2", "stats": { "Championships": 0, "Race Wins": 7, "Podiums": 24, "Pole Positions": 4, "Win Percentage": 4.3 } },
+    { "id": "piastri", "name": "Oscar Piastri", "color": "#FF8700", "stats": { "Championships": 0, "Race Wins": 5, "Podiums": 18, "Pole Positions": 2, "Win Percentage": 5.6 } },
+    { "id": "sainz", "name": "Carlos Sainz Jr.", "color": "#6699FF", "stats": { "Championships": 0, "Race Wins": 4, "Podiums": 25, "Pole Positions": 6, "Win Percentage": 1.7 } },
+    { "id": "perez", "name": "Sergio Pérez", "color": "#731472", "stats": { "Championships": 0, "Race Wins": 6, "Podiums": 39, "Pole Positions": 3, "Win Percentage": 2.1 } },
+    { "id": "gasly", "name": "Pierre Gasly", "color": "#0090FF", "stats": { "Championships": 0, "Race Wins": 1, "Podiums": 5, "Pole Positions": 0, "Win Percentage": 0.5 } },
+    { "id": "ocon", "name": "Esteban Ocon", "color": "#000000", "stats": { "Championships": 0, "Race Wins": 1, "Podiums": 4, "Pole Positions": 0, "Win Percentage": 0.5 } },
+    { "id": "albon", "name": "Alex Albon", "color": "#005AFF", "stats": { "Championships": 0, "Race Wins": 0, "Podiums": 2, "Pole Positions": 0, "Win Percentage": 0.0 } },
+    { "id": "stroll", "name": "Lance Stroll", "color": "#229971", "stats": { "Championships": 0, "Race Wins": 0, "Podiums": 3, "Pole Positions": 1, "Win Percentage": 0.0 } },
+    { "id": "hulkenberg", "name": "Nico Hülkenberg", "color": "#B6BABD", "stats": { "Championships": 0, "Race Wins": 0, "Podiums": 1, "Pole Positions": 1, "Win Percentage": 0.0 } },
+    { "id": "antonelli", "name": "Andrea Kimi Antonelli", "color": "#27F4D2", "stats": { "Championships": 0, "Race Wins": 6, "Podiums": 11, "Pole Positions": 3, "Win Percentage": 16.2 } }
+  ]
+}

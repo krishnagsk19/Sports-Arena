@@ -1,0 +1,22 @@
+{
+  "sport": "Football",
+  "role": "Goalkeepers",
+  "metrics": ["Clean Sheets", "Penalty Saves", "Appearances", "Trophies", "Save Percentage"],
+  "players": [
+    { "id": "buffon", "name": "Gianluigi Buffon", "color": "#000000", "stats": { "Clean Sheets": 294, "Penalty Saves": 30, "Appearances": 1151, "Trophies": 28, "Save Percentage": 77.5 } },
+    { "id": "casillas", "name": "Iker Casillas", "color": "#FFFFFF", "stats": { "Clean Sheets": 174, "Penalty Saves": 23, "Appearances": 1048, "Trophies": 25, "Save Percentage": 74.2 } },
+    { "id": "neuer", "name": "Manuel Neuer", "color": "#DC143C", "stats": { "Clean Sheets": 241, "Penalty Saves": 25, "Appearances": 850, "Trophies": 33, "Save Percentage": 76.8 } },
+    { "id": "cech", "name": "Petr Čech", "color": "#034694", "stats": { "Clean Sheets": 224, "Penalty Saves": 21, "Appearances": 781, "Trophies": 19, "Save Percentage": 78.1 } },
+    { "id": "vandersar", "name": "Edwin van der Sar", "color": "#DA291C", "stats": { "Clean Sheets": 132, "Penalty Saves": 14, "Appearances": 820, "Trophies": 27, "Save Percentage": 75.9 } },
+    { "id": "schmeichel", "name": "Peter Schmeichel", "color": "#DA291C", "stats": { "Clean Sheets": 128, "Penalty Saves": 12, "Appearances": 740, "Trophies": 24, "Save Percentage": 76.5 } },
+    { "id": "courtois", "name": "Thibaut Courtois", "color": "#FFFFFF", "stats": { "Clean Sheets": 200, "Penalty Saves": 15, "Appearances": 650, "Trophies": 16, "Save Percentage": 73.4 } },
+    { "id": "alisson", "name": "Alisson Becker", "color": "#C8102E", "stats": { "Clean Sheets": 103, "Penalty Saves": 11, "Appearances": 400, "Trophies": 10, "Save Percentage": 75.2 } },
+    { "id": "ederson", "name": "Ederson", "color": "#6CABDD", "stats": { "Clean Sheets": 115, "Penalty Saves": 8, "Appearances": 420, "Trophies": 15, "Save Percentage": 71.8 } },
+    { "id": "oblak", "name": "Jan Oblak", "color": "#CB3524", "stats": { "Clean Sheets": 186, "Penalty Saves": 14, "Appearances": 500, "Trophies": 8, "Save Percentage": 79.1 } },
+    { "id": "degea", "name": "David De Gea", "color": "#DA291C", "stats": { "Clean Sheets": 182, "Penalty Saves": 18, "Appearances": 650, "Trophies": 10, "Save Percentage": 73.8 } },
+    { "id": "lloris", "name": "Hugo Lloris", "color": "#132257", "stats": { "Clean Sheets": 201, "Penalty Saves": 16, "Appearances": 720, "Trophies": 4, "Save Percentage": 72.5 } },
+    { "id": "kahn", "name": "Oliver Kahn", "color": "#DC143C", "stats": { "Clean Sheets": 196, "Penalty Saves": 18, "Appearances": 780, "Trophies": 22, "Save Percentage": 75.0 } },
+    { "id": "navas", "name": "Keylor Navas", "color": "#FFFFFF", "stats": { "Clean Sheets": 150, "Penalty Saves": 13, "Appearances": 520, "Trophies": 27, "Save Percentage": 74.0 } },
+    { "id": "handanovic", "name": "Samir Handanović", "color": "#00529F", "stats": { "Clean Sheets": 199, "Penalty Saves": 38, "Appearances": 715, "Trophies": 5, "Save Percentage": 72.8 } }
+  ]
+}

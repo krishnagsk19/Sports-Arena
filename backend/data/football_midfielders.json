@@ -1,0 +1,22 @@
+{
+  "sport": "Football",
+  "role": "Midfielders",
+  "metrics": ["Pass Accuracy %", "Assists", "Chances Created", "Interceptions", "Tackles"],
+  "players": [
+    { "id": "de_bruyne", "name": "Kevin De Bruyne", "color": "#98C5E9", "stats": { "Pass Accuracy %": 84, "Assists": 290, "Chances Created": 1150, "Interceptions": 45, "Tackles": 60 } },
+    { "id": "modric", "name": "Luka Modrić", "color": "#ED1C24", "stats": { "Pass Accuracy %": 89, "Assists": 133, "Chances Created": 720, "Interceptions": 110, "Tackles": 85 } },
+    { "id": "zidane", "name": "Zinedine Zidane", "color": "#002654", "stats": { "Pass Accuracy %": 87, "Assists": 215, "Chances Created": 950, "Interceptions": 60, "Tackles": 70 } },
+    { "id": "iniesta", "name": "Andrés Iniesta", "color": "#AA0000", "stats": { "Pass Accuracy %": 90, "Assists": 160, "Chances Created": 850, "Interceptions": 75, "Tackles": 65 } },
+    { "id": "xavi", "name": "Xavi Hernández", "color": "#004D98", "stats": { "Pass Accuracy %": 92, "Assists": 210, "Chances Created": 1050, "Interceptions": 85, "Tackles": 80 } },
+    { "id": "kroos", "name": "Toni Kroos", "color": "#FFFFFF", "stats": { "Pass Accuracy %": 93, "Assists": 165, "Chances Created": 800, "Interceptions": 90, "Tackles": 75 } },
+    { "id": "pirlo", "name": "Andrea Pirlo", "color": "#0066CC", "stats": { "Pass Accuracy %": 88, "Assists": 135, "Chances Created": 780, "Interceptions": 85, "Tackles": 70 } },
+    { "id": "scholes", "name": "Paul Scholes", "color": "#DA291C", "stats": { "Pass Accuracy %": 89, "Assists": 120, "Chances Created": 600, "Interceptions": 120, "Tackles": 150 } },
+    { "id": "gerrard", "name": "Steven Gerrard", "color": "#C8102E", "stats": { "Pass Accuracy %": 83, "Assists": 150, "Chances Created": 700, "Interceptions": 140, "Tackles": 200 } },
+    { "id": "lampard", "name": "Frank Lampard", "color": "#034694", "stats": { "Pass Accuracy %": 82, "Assists": 175, "Chances Created": 750, "Interceptions": 90, "Tackles": 110 } },
+    { "id": "kante", "name": "N'Golo Kanté", "color": "#002395", "stats": { "Pass Accuracy %": 88, "Assists": 35, "Chances Created": 200, "Interceptions": 350, "Tackles": 400 } },
+    { "id": "busquets", "name": "Sergio Busquets", "color": "#A50044", "stats": { "Pass Accuracy %": 91, "Assists": 45, "Chances Created": 300, "Interceptions": 250, "Tackles": 310 } },
+    { "id": "casemiro", "name": "Casemiro", "color": "#FEE12B", "stats": { "Pass Accuracy %": 85, "Assists": 40, "Chances Created": 180, "Interceptions": 280, "Tackles": 380 } },
+    { "id": "bellingham", "name": "Jude Bellingham", "color": "#000000", "stats": { "Pass Accuracy %": 86, "Assists": 55, "Chances Created": 210, "Interceptions": 85, "Tackles": 100 } },
+    { "id": "pedri", "name": "Pedri", "color": "#DDAA00", "stats": { "Pass Accuracy %": 89, "Assists": 40, "Chances Created": 190, "Interceptions": 70, "Tackles": 65 } }
+  ]
+}

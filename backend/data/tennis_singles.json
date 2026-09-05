@@ -1,0 +1,22 @@
+{
+  "sport": "Tennis",
+  "role": "Singles",
+  "metrics": ["Grand Slams", "ATP Titles", "Matches Won", "Win Percentage", "Weeks at No. 1"],
+  "players": [
+    { "id": "djokovic", "name": "Novak Djokovic", "color": "#0047AB", "stats": { "Grand Slams": 24, "ATP Titles": 98, "Matches Won": 1095, "Win Percentage": 83.6, "Weeks at No. 1": 416 } },
+    { "id": "nadal", "name": "Rafael Nadal", "color": "#E32221", "stats": { "Grand Slams": 22, "ATP Titles": 92, "Matches Won": 1070, "Win Percentage": 82.9, "Weeks at No. 1": 209 } },
+    { "id": "federer", "name": "Roger Federer", "color": "#A01B2C", "stats": { "Grand Slams": 20, "ATP Titles": 103, "Matches Won": 1251, "Win Percentage": 82.0, "Weeks at No. 1": 310 } },
+    { "id": "alcaraz", "name": "Carlos Alcaraz", "color": "#FFC000", "stats": { "Grand Slams": 4, "ATP Titles": 15, "Matches Won": 190, "Win Percentage": 80.5, "Weeks at No. 1": 36 } },
+    { "id": "sinner", "name": "Jannik Sinner", "color": "#008000", "stats": { "Grand Slams": 3, "ATP Titles": 18, "Matches Won": 230, "Win Percentage": 77.5, "Weeks at No. 1": 35 } },
+    { "id": "murray", "name": "Andy Murray", "color": "#012169", "stats": { "Grand Slams": 3, "ATP Titles": 46, "Matches Won": 739, "Win Percentage": 74.8, "Weeks at No. 1": 41 } },
+    { "id": "wawrinka", "name": "Stan Wawrinka", "color": "#FF0000", "stats": { "Grand Slams": 3, "ATP Titles": 16, "Matches Won": 560, "Win Percentage": 62.4, "Weeks at No. 1": 0 } },
+    { "id": "thiem", "name": "Dominic Thiem", "color": "#111111", "stats": { "Grand Slams": 1, "ATP Titles": 17, "Matches Won": 350, "Win Percentage": 65.2, "Weeks at No. 1": 0 } },
+    { "id": "medvedev", "name": "Daniil Medvedev", "color": "#003366", "stats": { "Grand Slams": 1, "ATP Titles": 20, "Matches Won": 360, "Win Percentage": 71.0, "Weeks at No. 1": 16 } },
+    { "id": "zverev", "name": "Alexander Zverev", "color": "#000000", "stats": { "Grand Slams": 0, "ATP Titles": 23, "Matches Won": 430, "Win Percentage": 69.5, "Weeks at No. 1": 0 } },
+    { "id": "tsitsipas", "name": "Stefanos Tsitsipas", "color": "#0055A5", "stats": { "Grand Slams": 0, "ATP Titles": 11, "Matches Won": 320, "Win Percentage": 68.0, "Weeks at No. 1": 0 } },
+    { "id": "ruud", "name": "Casper Ruud", "color": "#D32F2F", "stats": { "Grand Slams": 0, "ATP Titles": 12, "Matches Won": 240, "Win Percentage": 64.0, "Weeks at No. 1": 0 } },
+    { "id": "rublev", "name": "Andrey Rublev", "color": "#E53935", "stats": { "Grand Slams": 0, "ATP Titles": 16, "Matches Won": 310, "Win Percentage": 63.8, "Weeks at No. 1": 0 } },
+    { "id": "delpotro", "name": "Juan Martín del Potro", "color": "#7B1FA2", "stats": { "Grand Slams": 1, "ATP Titles": 22, "Matches Won": 439, "Win Percentage": 70.1, "Weeks at No. 1": 0 } },
+    { "id": "cilic", "name": "Marin Čilić", "color": "#FFCC00", "stats": { "Grand Slams": 1, "ATP Titles": 20, "Matches Won": 580, "Win Percentage": 61.2, "Weeks at No. 1": 0 } }
+  ]
+}

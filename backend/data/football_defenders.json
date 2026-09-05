@@ -1,0 +1,22 @@
+{
+  "sport": "Football",
+  "role": "Defenders",
+  "metrics": ["Clean Sheets", "Tackles", "Interceptions", "Appearances", "Trophies"],
+  "players": [
+    { "id": "maldini", "name": "Paolo Maldini", "color": "#FB090B", "stats": { "Clean Sheets": 277, "Tackles": 1800, "Interceptions": 1200, "Appearances": 902, "Trophies": 26 } },
+    { "id": "ramos", "name": "Sergio Ramos", "color": "#FFFFFF", "stats": { "Clean Sheets": 230, "Tackles": 1450, "Interceptions": 980, "Appearances": 950, "Trophies": 29 } },
+    { "id": "terry", "name": "John Terry", "color": "#034694", "stats": { "Clean Sheets": 214, "Tackles": 1300, "Interceptions": 890, "Appearances": 717, "Trophies": 17 } },
+    { "id": "puyol", "name": "Carles Puyol", "color": "#A50044", "stats": { "Clean Sheets": 195, "Tackles": 1250, "Interceptions": 850, "Appearances": 682, "Trophies": 21 } },
+    { "id": "vandijk", "name": "Virgil van Dijk", "color": "#C8102E", "stats": { "Clean Sheets": 160, "Tackles": 800, "Interceptions": 600, "Appearances": 520, "Trophies": 9 } },
+    { "id": "vidic", "name": "Nemanja Vidić", "color": "#DA291C", "stats": { "Clean Sheets": 180, "Tackles": 1100, "Interceptions": 750, "Appearances": 506, "Trophies": 15 } },
+    { "id": "cannavaro", "name": "Fabio Cannavaro", "color": "#000000", "stats": { "Clean Sheets": 200, "Tackles": 1400, "Interceptions": 950, "Appearances": 690, "Trophies": 14 } },
+    { "id": "carlos", "name": "Roberto Carlos", "color": "#FEBE10", "stats": { "Clean Sheets": 185, "Tackles": 950, "Interceptions": 700, "Appearances": 820, "Trophies": 21 } },
+    { "id": "cafu", "name": "Cafu", "color": "#009B3A", "stats": { "Clean Sheets": 170, "Tackles": 1050, "Interceptions": 800, "Appearances": 660, "Trophies": 20 } },
+    { "id": "silva", "name": "Thiago Silva", "color": "#00428C", "stats": { "Clean Sheets": 210, "Tackles": 1200, "Interceptions": 920, "Appearances": 800, "Trophies": 32 } },
+    { "id": "chiellini", "name": "Giorgio Chiellini", "color": "#000000", "stats": { "Clean Sheets": 220, "Tackles": 1350, "Interceptions": 980, "Appearances": 710, "Trophies": 20 } },
+    { "id": "nesta", "name": "Alessandro Nesta", "color": "#0087D1", "stats": { "Clean Sheets": 190, "Tackles": 1150, "Interceptions": 900, "Appearances": 624, "Trophies": 18 } },
+    { "id": "alves", "name": "Dani Alves", "color": "#FEE12B", "stats": { "Clean Sheets": 205, "Tackles": 1400, "Interceptions": 850, "Appearances": 910, "Trophies": 43 } },
+    { "id": "beckenbauer", "name": "Franz Beckenbauer", "color": "#DD0000", "stats": { "Clean Sheets": 250, "Tackles": 1500, "Interceptions": 1100, "Appearances": 750, "Trophies": 19 } },
+    { "id": "dias", "name": "Rúben Dias", "color": "#6CABDD", "stats": { "Clean Sheets": 110, "Tackles": 450, "Interceptions": 350, "Appearances": 320, "Trophies": 12 } }
+  ]
+}

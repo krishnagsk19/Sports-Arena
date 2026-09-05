@@ -1,0 +1,22 @@
+{
+  "sport": "Football",
+  "role": "Attackers",
+  "metrics": ["Goals", "Assists", "Shots per Game", "Dribbles per Game", "Key Passes"],
+  "players": [
+    { "id": "messi", "name": "Lionel Messi", "color": "#43A1D5", "stats": { "Goals": 821, "Assists": 361, "Shots per Game": 4.5, "Dribbles per Game": 4.8, "Key Passes": 2.5 } },
+    { "id": "ronaldo", "name": "Cristiano Ronaldo", "color": "#E32221", "stats": { "Goals": 869, "Assists": 248, "Shots per Game": 5.2, "Dribbles per Game": 1.9, "Key Passes": 1.4 } },
+    { "id": "mbappe", "name": "Kylian Mbappé", "color": "#002395", "stats": { "Goals": 312, "Assists": 130, "Shots per Game": 4.0, "Dribbles per Game": 3.2, "Key Passes": 1.8 } },
+    { "id": "haaland", "name": "Erling Haaland", "color": "#6CABDD", "stats": { "Goals": 235, "Assists": 48, "Shots per Game": 3.8, "Dribbles per Game": 0.8, "Key Passes": 0.9 } },
+    { "id": "lewandowski", "name": "Robert Lewandowski", "color": "#DC143C", "stats": { "Goals": 612, "Assists": 149, "Shots per Game": 3.9, "Dribbles per Game": 1.1, "Key Passes": 1.2 } },
+    { "id": "neymar", "name": "Neymar Jr", "color": "#FEE12B", "stats": { "Goals": 436, "Assists": 244, "Shots per Game": 3.1, "Dribbles per Game": 4.5, "Key Passes": 2.7 } },
+    { "id": "benzema", "name": "Karim Benzema", "color": "#E0E0E0", "stats": { "Goals": 473, "Assists": 192, "Shots per Game": 3.3, "Dribbles per Game": 1.2, "Key Passes": 1.6 } },
+    { "id": "suarez", "name": "Luis Suárez", "color": "#74B3E3", "stats": { "Goals": 555, "Assists": 250, "Shots per Game": 3.6, "Dribbles per Game": 1.5, "Key Passes": 1.5 } },
+    { "id": "hazard", "name": "Eden Hazard", "color": "#034694", "stats": { "Goals": 201, "Assists": 193, "Shots per Game": 2.1, "Dribbles per Game": 4.2, "Key Passes": 2.6 } },
+    { "id": "vinicius", "name": "Vinícius Júnior", "color": "#F1E04D", "stats": { "Goals": 95, "Assists": 78, "Shots per Game": 2.5, "Dribbles per Game": 3.5, "Key Passes": 1.9 } },
+    { "id": "kane", "name": "Harry Kane", "color": "#132257", "stats": { "Goals": 372, "Assists": 95, "Shots per Game": 3.5, "Dribbles per Game": 1.0, "Key Passes": 1.4 } },
+    { "id": "salah", "name": "Mohamed Salah", "color": "#C8102E", "stats": { "Goals": 322, "Assists": 137, "Shots per Game": 3.4, "Dribbles per Game": 1.8, "Key Passes": 1.7 } },
+    { "id": "ibrahimovic", "name": "Zlatan Ibrahimović", "color": "#005C9E", "stats": { "Goals": 511, "Assists": 204, "Shots per Game": 3.8, "Dribbles per Game": 1.2, "Key Passes": 1.3 } },
+    { "id": "ronaldinho", "name": "Ronaldinho", "color": "#FFDF00", "stats": { "Goals": 299, "Assists": 191, "Shots per Game": 2.8, "Dribbles per Game": 4.6, "Key Passes": 2.8 } },
+    { "id": "henry", "name": "Thierry Henry", "color": "#002654", "stats": { "Goals": 411, "Assists": 200, "Shots per Game": 3.2, "Dribbles per Game": 2.5, "Key Passes": 1.8 } }
+  ]
+}

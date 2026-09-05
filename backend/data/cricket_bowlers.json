@@ -1,0 +1,22 @@
+{
+  "sport": "Cricket",
+  "role": "Bowlers",
+  "metrics": ["Wickets", "5-W Hauls", "Matches", "Average", "Economy"],
+  "players": [
+    { "id": "muralitharan", "name": "Muttiah Muralitharan", "color": "#002366", "stats": { "Wickets": 1347, "5-W Hauls": 77, "Matches": 495, "Average": 22.8, "Economy": 2.9 } },
+    { "id": "warne", "name": "Shane Warne", "color": "#FCD116", "stats": { "Wickets": 1001, "5-W Hauls": 38, "Matches": 339, "Average": 25.5, "Economy": 2.9 } },
+    { "id": "anderson", "name": "James Anderson", "color": "#CE1126", "stats": { "Wickets": 987, "5-W Hauls": 34, "Matches": 400, "Average": 26.8, "Economy": 3.2 } },
+    { "id": "mcgrath", "name": "Glenn McGrath", "color": "#FFD700", "stats": { "Wickets": 949, "5-W Hauls": 36, "Matches": 376, "Average": 21.7, "Economy": 3.1 } },
+    { "id": "kumble", "name": "Anil Kumble", "color": "#0055A5", "stats": { "Wickets": 956, "5-W Hauls": 37, "Matches": 403, "Average": 29.3, "Economy": 3.4 } },
+    { "id": "broad", "name": "Stuart Broad", "color": "#E50000", "stats": { "Wickets": 847, "5-W Hauls": 20, "Matches": 344, "Average": 27.8, "Economy": 3.5 } },
+    { "id": "akram", "name": "Wasim Akram", "color": "#01411C", "stats": { "Wickets": 916, "5-W Hauls": 31, "Matches": 460, "Average": 23.6, "Economy": 3.1 } },
+    { "id": "younis", "name": "Waqar Younis", "color": "#006400", "stats": { "Wickets": 789, "5-W Hauls": 35, "Matches": 349, "Average": 23.7, "Economy": 4.1 } },
+    { "id": "steyn", "name": "Dale Steyn", "color": "#007A4D", "stats": { "Wickets": 699, "5-W Hauls": 29, "Matches": 265, "Average": 23.3, "Economy": 3.5 } },
+    { "id": "ambrose", "name": "Curtly Ambrose", "color": "#7B0041", "stats": { "Wickets": 630, "5-W Hauls": 26, "Matches": 274, "Average": 22.5, "Economy": 2.7 } },
+    { "id": "walsh", "name": "Courtney Walsh", "color": "#500000", "stats": { "Wickets": 746, "5-W Hauls": 23, "Matches": 337, "Average": 24.1, "Economy": 3.0 } },
+    { "id": "hadlee", "name": "Richard Hadlee", "color": "#111111", "stats": { "Wickets": 589, "5-W Hauls": 41, "Matches": 201, "Average": 22.1, "Economy": 2.9 } },
+    { "id": "dev", "name": "Kapil Dev", "color": "#1188FF", "stats": { "Wickets": 687, "5-W Hauls": 24, "Matches": 356, "Average": 28.5, "Economy": 3.2 } },
+    { "id": "pollock", "name": "Shaun Pollock", "color": "#FFC000", "stats": { "Wickets": 829, "5-W Hauls": 21, "Matches": 423, "Average": 23.7, "Economy": 3.2 } },
+    { "id": "boult", "name": "Trent Boult", "color": "#000000", "stats": { "Wickets": 602, "5-W Hauls": 16, "Matches": 243, "Average": 25.8, "Economy": 4.1 } }
+  ]
+}

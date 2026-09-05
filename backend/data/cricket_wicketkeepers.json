@@ -1,0 +1,17 @@
+{
+  "sport": "Cricket",
+  "role": "Wicketkeepers",
+  "metrics": ["Total Dismissals", "Catches", "Stumpings", "Matches", "Dismissals/Match"],
+  "players": [
+    { "id": "boucher", "name": "Mark Boucher", "color": "#007A4D", "stats": { "Total Dismissals": 998, "Catches": 952, "Stumpings": 46, "Matches": 467, "Dismissals/Match": 2.13 } },
+    { "id": "gilchrist", "name": "Adam Gilchrist", "color": "#FFD700", "stats": { "Total Dismissals": 905, "Catches": 813, "Stumpings": 92, "Matches": 396, "Dismissals/Match": 2.28 } },
+    { "id": "dhoni", "name": "MS Dhoni", "color": "#0055A5", "stats": { "Total Dismissals": 829, "Catches": 634, "Stumpings": 195, "Matches": 538, "Dismissals/Match": 1.54 } },
+    { "id": "sangakkara", "name": "Kumar Sangakkara", "color": "#002366", "stats": { "Total Dismissals": 678, "Catches": 539, "Stumpings": 139, "Matches": 594, "Dismissals/Match": 1.14 } },
+    { "id": "healy", "name": "Ian Healy", "color": "#FCD116", "stats": { "Total Dismissals": 628, "Catches": 560, "Stumpings": 68, "Matches": 287, "Dismissals/Match": 2.18 } },
+    { "id": "dekock", "name": "Quinton de Kock", "color": "#FFC000", "stats": { "Total Dismissals": 521, "Catches": 480, "Stumpings": 41, "Matches": 285, "Dismissals/Match": 1.82 } },
+    { "id": "marsh", "name": "Rod Marsh", "color": "#FFD700", "stats": { "Total Dismissals": 479, "Catches": 463, "Stumpings": 16, "Matches": 188, "Dismissals/Match": 2.54 } },
+    { "id": "haddin", "name": "Brad Haddin", "color": "#FCD116", "stats": { "Total Dismissals": 474, "Catches": 449, "Stumpings": 25, "Matches": 226, "Dismissals/Match": 2.09 } },
+    { "id": "dujon", "name": "Jeffrey Dujon", "color": "#7B0041", "stats": { "Total Dismissals": 474, "Catches": 448, "Stumpings": 26, "Matches": 250, "Dismissals/Match": 1.89 } },
+    { "id": "mccullum", "name": "Brendon McCullum", "color": "#111111", "stats": { "Total Dismissals": 453, "Catches": 419, "Stumpings": 34, "Matches": 432, "Dismissals/Match": 1.04 } }
+  ]
+}

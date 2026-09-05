@@ -1,0 +1,22 @@
+{
+  "sport": "Cricket",
+  "role": "Batsmens",
+  "metrics": ["Matches", "Runs", "Centuries", "Average", "Away Runs"],
+  "players": [
+    { "id": "tendulkar", "name": "Sachin Tendulkar", "color": "#0055A5", "stats": { "Matches": 664, "Runs": 34357, "Centuries": 100, "Average": 48.5, "Away Runs": 15857 } },
+    { "id": "kohli", "name": "Virat Kohli", "color": "#1188FF", "stats": { "Matches": 562, "Runs": 28359, "Centuries": 85, "Average": 52.71, "Away Runs": 15579 } },
+    { "id": "ponting", "name": "Ricky Ponting", "color": "#FCD116", "stats": { "Matches": 560, "Runs": 27483, "Centuries": 71, "Average": 45.9, "Away Runs": 12283 } },
+    { "id": "kallis", "name": "Jacques Kallis", "color": "#007A4D", "stats": { "Matches": 519, "Runs": 25534, "Centuries": 62, "Average": 49.1, "Away Runs": 11734 } },
+    { "id": "sangakkara", "name": "Kumar Sangakkara", "color": "#002366", "stats": { "Matches": 594, "Runs": 28016, "Centuries": 63, "Average": 46.7, "Away Runs": 13116 } },
+    { "id": "lara", "name": "Brian Lara", "color": "#7B0041", "stats": { "Matches": 430, "Runs": 22358, "Centuries": 53, "Average": 46.2, "Away Runs": 10258 } },
+    { "id": "smith", "name": "Steve Smith", "color": "#FFD700", "stats": { "Matches": 362, "Runs": 17814, "Centuries": 49, "Average": 47.75, "Away Runs": 9196 } },
+    { "id": "root", "name": "Joe Root", "color": "#CE1126", "stats": { "Matches": 392, "Runs": 22927, "Centuries": 61, "Average": 49.84, "Away Runs": 10999 } },
+    { "id": "williamson", "name": "Kane Williamson", "color": "#111111", "stats": { "Matches": 378, "Runs": 19346, "Centuries": 48, "Average": 48.12, "Away Runs": 9617 } },
+    { "id": "devilliers", "name": "AB de Villiers", "color": "#FFC000", "stats": { "Matches": 420, "Runs": 20014, "Centuries": 47, "Average": 48.1, "Away Runs": 9014 } },
+    { "id": "rohit", "name": "Rohit Sharma", "color": "#00A3E0", "stats": { "Matches": 485, "Runs": 19500, "Centuries": 50, "Average": 42.8, "Away Runs": 8300 } },
+    { "id": "richards", "name": "Viv Richards", "color": "#500000", "stats": { "Matches": 308, "Runs": 15261, "Centuries": 35, "Average": 48.7, "Away Runs": 7061 } },
+    { "id": "babar", "name": "Babar Azam", "color": "#01411C", "stats": { "Matches": 300, "Runs": 14500, "Centuries": 33, "Average": 46.9, "Away Runs": 6100 } },
+    { "id": "gayle", "name": "Chris Gayle", "color": "#E03C31", "stats": { "Matches": 483, "Runs": 19593, "Centuries": 42, "Average": 38.0, "Away Runs": 9093 } },
+    { "id": "dhoni", "name": "MS Dhoni", "color": "#000080", "stats": { "Matches": 538, "Runs": 17266, "Centuries": 16, "Average": 44.9, "Away Runs": 7466 } }
+  ]
+}
